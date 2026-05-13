@@ -28,11 +28,11 @@ on:
       width:
         description: "Window width (px)"
         required: false
-        default: "1200"
+        default: "1366"
       height:
         description: "Window height (px)"
         required: false
-        default: "780"
+        default: "768"
       fullscreen:
         description: "Start in fullscreen mode"
         required: false
